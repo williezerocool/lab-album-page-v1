@@ -7,20 +7,22 @@
     font-family: 'Sansita', sans-serif;
 }
             
-#jayImg{
-    
-    margin: auto;
-    background-color: grey;
-    padding: 120px;
-    width:5%;
-    height: 100%;
-    background: url("https://s-media-cache-ak0.pinimg.com/736x/ab/ec/63/abec639de88ff34f411eb6a38d140a8f.jpg");
-    background-repeat: no-repeat;
 
-}
             
 ul li{
                
 font-style: italic; 
             
+}
+
+.container{
+
+    margin-left: 35%
+    
+}
+
+.table-sstriped{
+                 
+    @table-bg-accent: #f9f9f9
+    
 }
